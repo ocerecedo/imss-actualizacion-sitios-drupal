@@ -1,6 +1,10 @@
 Introducción
 ===============
-El siguiente documento tiene como finalidad guiarle en el proceso de actualización de los sitios de la Coordinación de Educación en Salud
+El presente documento tiene como finalidad guiarle en el proceso de actualización de los siguientes sitios de la Coordinación de Educación en Salud:
+
+* Revista de enfermeria
+* Revista médica
+* Sitio de la División de Innovación Educativa
  
 Subject Subtitle
 ----------------
