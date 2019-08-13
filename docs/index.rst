@@ -2,9 +2,9 @@ Introducción
 ===============
 El presente documento tiene como finalidad guiarle en el proceso de actualización de los siguientes sitios de la Coordinación de Educación en Salud:
 
-* Revista de enfermeria
-* Revista médica
-* Sitio de la División de Innovación Educativa
+* `Revista de enfermeria <http://revistaenfermeria.imss.gob.mx>`_
+* `Revista médica <http://revistamedica.imss.gob.mx>`_
+* `Sitio de la División de Innovación Educativa <http://innovacioneducativa.imss.gob.mx>`_
  
 Subject Subtitle
 ----------------
