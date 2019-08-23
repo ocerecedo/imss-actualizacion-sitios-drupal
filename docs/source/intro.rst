@@ -24,13 +24,22 @@ Requerimientos
 | Nombre                                             | Descripción                                |
 +====================================================+============================================+
 | `VMware Workstation`__                             | Requerido para crear un servidor virtual   |
-|  __ https://www.vmware.com/                        | de Centos.                                 |
+|  __ http://bit.ly/31VnOtl                          | de Centos.                                 |
 +----------------------------------------------------+--------------------------------------------+
 | `Máquina Virtual`__                                | Contiene los recursos necesarios para      |
 |  __ https://www.vmware.com/                        | poder llevar acabo la actualización.       |
 +----------------------------------------------------+--------------------------------------------+
 | `Respaldos de Sitios`__                            | Proporcionados por Eduardo Barcenas y este |
-|  __ https://www.vmware.com/                        | es descargad0 de red interna.              |
+|  __ https://www.vmware.com/                        | se descarga de red interna.                |
 +----------------------------------------------------+--------------------------------------------+
 
 
+Instalación de VMWare Workstation
+---------------------------------
+
+1. Descargar la aplicación desde el sitio oficial proporcionado en la tabla de arriba
+2. De click sobre el ejecutable para iniciar el proceso de instalación y en la pantalla presione Next
+3. Acepte los términos de la licencia y de clic en Next
+4. Habilite "Enhanced Keyboard Driver" y de clic en Next
+5. En las siguientes pantallas presione Next
+6. Presione Install para comenzar
