@@ -1,40 +1,36 @@
-Introducción
-===============
+Introducción 
+============
 El presente documento tiene como finalidad guiarle en el proceso de actualización de los siguientes sitios de la 
-Coordinación de Educación en Salud:
+Coordinación de Educación en Salud basados en Drupal:
 
 * `Revista de enfermeria <http://revistaenfermeria.imss.gob.mx>`_
 * `Revista médica <http://revistamedica.imss.gob.mx>`_
 * `Sitio de la División de Innovación Educativa <http://innovacioneducativa.imss.gob.mx>`_
 
+Se explica paso a paso el proceso de actualización dentro de un ambiente virtual previamente configurado mismo que se encuentra
+disponible para su descarga `aquí <http://revistaenfermeria.imss.gob.mx>`_, fuera de este ambiente requerira configurar un sistema
+operativo Centos 7 con todo lo necesario para poder actualizar los sitios, dicha explicación se encuentra fuera de los alcances
+de este manual.
 
- 
-Subject Subtitle
-----------------
-Subtitles are set with '-' and are required to have the same length
-of the subtitle itself, just like titles.
- 
-Lists can be unnumbered like:
- 
- * Item Foo
- * Item Bar
- 
-Or automatically numbered:
- 
- #. Item 1
- #. Item 2
- 
-Inline Markup
--------------
-Words can have *emphasis in italics* or be **bold** and you can define
-code samples with back quotes, like when you talk about a command: ``sudo``
-gives you super user powers!
+Para mantener el hilo de lo ocurrido con este proceso llamense dudas, errores, etc; le sugiero colocarlas 
+`en issues <https://github.com/ocerecedo/imss-actualizacion-sitios-drupal/issues>`_, el cual es el canal de información oficial.
 
 
+Requerimientos
+--------------
 
 
-+------------------------------+-----------------------------+--------------+
-| Nombre                       | Apellido                    | Sexo         |
-+==============================+=============================+==============+
-| Omar                         | Cerecedo                    | Masculino    |
-+------------------------------+-----------------------------+--------------+
++----------------------------------------------------+--------------------------------------------+
+| Nombre                                             | Descripción                                |
++====================================================+============================================+
+| `VMware Workstation`__                             | Requerido para crear un servidor virtual   |
+|  __ https://www.vmware.com/                        | de Centos.                                 |
++----------------------------------------------------+--------------------------------------------+
+| `Máquina Virtual`__                                | Contiene los recursos necesarios para      |
+|  __ https://www.vmware.com/                        | poder llevar acabo la actualización.       |
++----------------------------------------------------+--------------------------------------------+
+| `Respaldos de Sitios`__                            | Proporcionados por Eduardo Barcenas y este |
+|  __ https://www.vmware.com/                        | es descargad0 de red interna.              |
++----------------------------------------------------+--------------------------------------------+
+
+
