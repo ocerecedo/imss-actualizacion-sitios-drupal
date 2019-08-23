@@ -11,7 +11,7 @@ Contenido:
 .. toctree::
    :maxdepth: 2
 
-   intro
+   intro <intro.rst>
    req
 
 

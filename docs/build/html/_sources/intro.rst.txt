@@ -19,7 +19,6 @@ Para mantener el hilo de lo ocurrido con este proceso llamense dudas, errores, e
 Requerimientos
 --------------
 
-
 +----------------------------------------------------+--------------------------------------------+
 | Nombre                                             | Descripción                                |
 +====================================================+============================================+
@@ -67,3 +66,4 @@ en import, le arroja un mensaje como el de la imágen siguiente, solo de clic en
 .. image:: _static/error_Import_Virtual_Machine.png
 
 El proceso puede tomar varios minutos.
+
