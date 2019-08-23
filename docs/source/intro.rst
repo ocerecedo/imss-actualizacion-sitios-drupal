@@ -45,3 +45,18 @@ Para instalar VMWare Workstation realice los siguientes pasos:
 5. En las siguientes pantallas presione Next
 6. Presione Install para comenzar
 7. Presione finalizar y de clic en Restart
+
+Cargando imágen virtualizada
+----------------------------
+Despues de haber descargado la máquina virtual, proceda a descomprimir el archivo rar, dentro tendra la 
+siguiente estructura de ficheros:
+
+* Revistas.mf
+* Revistas.ovf
+* Revistas-disk1.vmdk
+* Revistas-file1.iso
+
+
+Proceda a ejecutar el archivo llamado Revistas.ovf, la pantalla inmediata debe ser la siguiente:
+
+.. image:: _static/import_Virtual_Machine.png

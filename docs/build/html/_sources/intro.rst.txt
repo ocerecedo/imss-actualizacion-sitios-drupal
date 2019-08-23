@@ -24,13 +24,39 @@ Requerimientos
 | Nombre                                             | Descripción                                |
 +====================================================+============================================+
 | `VMware Workstation`__                             | Requerido para crear un servidor virtual   |
-|  __ https://www.vmware.com/                        | de Centos.                                 |
+|  __ http://bit.ly/31VnOtl                          | de Centos.                                 |
 +----------------------------------------------------+--------------------------------------------+
 | `Máquina Virtual`__                                | Contiene los recursos necesarios para      |
 |  __ https://www.vmware.com/                        | poder llevar acabo la actualización.       |
 +----------------------------------------------------+--------------------------------------------+
 | `Respaldos de Sitios`__                            | Proporcionados por Eduardo Barcenas y este |
-|  __ https://www.vmware.com/                        | es descargad0 de red interna.              |
+|  __ https://www.vmware.com/                        | se descarga de red interna.                |
 +----------------------------------------------------+--------------------------------------------+
 
 
+Instalación de VMWare Workstation
+---------------------------------
+Para instalar VMWare Workstation realice los siguientes pasos:
+
+1. Descargar la aplicación desde el sitio oficial proporcionado en la tabla de arriba
+2. De click sobre el ejecutable para iniciar el proceso de instalación y en la pantalla presione Next
+3. Acepte los términos de la licencia y de clic en Next
+4. Habilite "Enhanced Keyboard Driver" y de clic en Next
+5. En las siguientes pantallas presione Next
+6. Presione Install para comenzar
+7. Presione finalizar y de clic en Restart
+
+Cargando imágen virtualizada
+----------------------------
+Despues de haber descargado la máquina virtual, proceda a descomprimir el archivo rar, dentro tendra la 
+siguiente estructura de ficheros:
+
+* Revistas.mf
+* Revistas.ovf
+* Revistas-disk1.vmdk
+* Revistas-file1.iso
+
+
+Proceda a ejecutar el archivo llamado Revistas.ovf, la pantalla inmediata debe ser la siguiente:
+
+.. image:: _static/import_Virtual_Machine.png
