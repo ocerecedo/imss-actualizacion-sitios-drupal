@@ -9,10 +9,10 @@ Manual para actualización de Sitios de la CES basados en Drupal
 Contenido:
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
 
-   intro <intro.rst>
-   req
+    intro
+    req
 
 
 
