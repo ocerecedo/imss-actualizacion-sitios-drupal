@@ -6,7 +6,7 @@
 Manual para actualización de Sitios de la CES basados en Drupal
 ===============================================================
 
-Contenido:
+Contents:
 
 .. toctree::
     :maxdepth: 2
