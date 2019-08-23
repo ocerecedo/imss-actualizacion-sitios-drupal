@@ -36,6 +36,7 @@ Requerimientos
 
 Instalación de VMWare Workstation
 ---------------------------------
+Para instalar VMWare Workstation realice los siguientes pasos:
 
 1. Descargar la aplicación desde el sitio oficial proporcionado en la tabla de arriba
 2. De click sobre el ejecutable para iniciar el proceso de instalación y en la pantalla presione Next
@@ -43,3 +44,4 @@ Instalación de VMWare Workstation
 4. Habilite "Enhanced Keyboard Driver" y de clic en Next
 5. En las siguientes pantallas presione Next
 6. Presione Install para comenzar
+7. Presione finalizar y de clic en Restart
