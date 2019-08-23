@@ -61,4 +61,9 @@ Proceda a ejecutar el archivo llamado Revistas.ovf, la pantalla inmediata debe s
 
 .. image:: _static/import_Virtual_Machine.png
 
-Coloque el nombre y la ruta de su máquina virtual y proceda a dar clic en Import.
+Coloque el nombre y la ruta de su máquina virtual y proceda a dar clic en Import. Si despues de dar clic 
+en import, le arroja un mensaje como el de la imágen siguiente, solo de clic en Retry
+
+.. image:: _static/error_Import_Virtual_Machine.png
+
+El proceso puede tomar varios minutos.
