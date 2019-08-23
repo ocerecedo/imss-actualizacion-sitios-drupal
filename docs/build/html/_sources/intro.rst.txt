@@ -60,3 +60,5 @@ siguiente estructura de ficheros:
 Proceda a ejecutar el archivo llamado Revistas.ovf, la pantalla inmediata debe ser la siguiente:
 
 .. image:: _static/import_Virtual_Machine.png
+
+Coloque el nombre y la ruta de su máquina virtual y proceda a dar clic en Import.
