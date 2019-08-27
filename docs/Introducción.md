@@ -21,4 +21,24 @@ en [issues](https://github.com/ocerecedo/imss-actualizacion-sitios-drupal/issues
 | Máquina Virtual                             | Contiene todo lo requerido para la actualización de los sitios. |
 | Respaldos de Sitios                         | Última copia de los sitios en productivo.                    |
 
-d
+# VMWare Workstation
+
+VMware Workstation es un hipervisor alojado que se ejecuta en versiones x64 de los sistemas operativos Windows y Linux; permite a los usuarios configurar máquinas virtuales en una sola máquina física y usarlas simultáneamente junto con la máquina real.
+
+## Instalación
+
+Para instalar VMWare Workstation realice los siguientes pasos:
+
+1. Descargar la aplicación desde el sitio oficial proporcionado en la tabla de arriba
+
+2. De click sobre el ejecutable para iniciar el proceso de instalación y en la pantalla presione Next
+
+3. Acepte los términos de la licencia y de clic en Next
+
+4. Habilite "Enhanced Keyboard Driver" y de clic en Next
+
+5. En las siguientes pantallas presione Next
+
+6. Presione Install para comenzar
+
+7. Presione finalizar y de clic en Restart
