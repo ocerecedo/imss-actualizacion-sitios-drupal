@@ -79,9 +79,7 @@ Dentro de la Shell, comprobaremos la conectividad de nuestra máquina virtual co
 
 Tener una dirección IP asignada es **fundamental** para este proceso, ya que mediante esa IP podrá acceder vía navegador Web a nuestros sitios, si en el proceso anterior no le ha asignado una dirección IP, ejecute lo siguiente en su consola:
 
-~~~bash
 ```bash
 nmtui
 ```
-~~~
 
