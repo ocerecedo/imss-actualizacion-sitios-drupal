@@ -51,3 +51,7 @@ En su memoria USB puede encontrar la máquina virtual con el nombre de **imagen_
 - Revistas.ovf
 - Revistas-disk1.vmdk
 - Revistas-file1.iso
+
+Proceda a ejecutar el archivo llamado Revistas.ovf, la pantalla inmediata debe ser la siguiente:
+
+![](C:\Users\nuxbaster\Documents\imss-actualizacion-sitios-drupal\docs\source\_static\import_Virtual_Machine.png)
