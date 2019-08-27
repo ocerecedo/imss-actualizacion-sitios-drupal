@@ -13,9 +13,9 @@ en [issues](https://github.com/ocerecedo/imss-actualizacion-sitios-drupal/issues
 
 # Requerimientos
 
-|      |      |
-| ---- | ---- |
-|      |      |
-|      |      |
-|      |      |
+| Nombre                                      | Descripción                                                  |
+| ------------------------------------------- | ------------------------------------------------------------ |
+| [VMWare Workstation](http://bit.ly/31VnOtl) | Aplicación para virtualizar sistemas operativos.             |
+| Máquina Virtual                             | Contiene todo lo requerido para la actualización de los sitios. |
+| Respaldos de Sitios                         | Última copia de los sitios en productivo.                    |
 
