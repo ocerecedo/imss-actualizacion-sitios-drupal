@@ -2,7 +2,6 @@
 
 El presente documento tiene como finalidad guiarle en el proceso de actualización de los siguientes sitios de la **Coordinación de Educación en Salud** basados en Drupal:
 
-- [Revista]: http://revistaenfermeria.imss.gob.mx
+- [Revista]: http://revistaenfermeria.imss.gob.mx	".ddslsdl"
 
   
-
