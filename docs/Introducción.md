@@ -13,7 +13,7 @@ Se explica paso a paso el proceso de actualización dentro de un ambiente virtua
 Para mantener el hilo de lo ocurrido con este proceso llámense dudas, errores, le sugiero colocarlas 
 en [issues](https://github.com/ocerecedo/imss-actualizacion-sitios-drupal/issues), el cual es el canal de información oficial.
 
-# Requerimientos
+## Requerimientos
 
 | Nombre                                      | Descripción                                                  |
 | ------------------------------------------- | ------------------------------------------------------------ |
@@ -21,3 +21,4 @@ en [issues](https://github.com/ocerecedo/imss-actualizacion-sitios-drupal/issues
 | Máquina Virtual                             | Contiene todo lo requerido para la actualización de los sitios. |
 | Respaldos de Sitios                         | Última copia de los sitios en productivo.                    |
 
+d
