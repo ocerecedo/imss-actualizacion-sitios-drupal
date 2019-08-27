@@ -1,5 +1,3 @@
-[TOC]
-
 # Introducción
 
 El presente documento tiene como finalidad guiarle en el proceso de actualización de los siguientes sitios de la **Coordinación de Educación en Salud** basados en Drupal:
@@ -12,3 +10,12 @@ Se explica paso a paso el proceso de actualización dentro de un ambiente virtua
 
 Para mantener el hilo de lo ocurrido con este proceso llámense dudas, errores, le sugiero colocarlas 
 en [issues](https://github.com/ocerecedo/imss-actualizacion-sitios-drupal/issues), el cual es el canal de información oficial.
+
+# Requerimientos
+
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+|      |      |
+
