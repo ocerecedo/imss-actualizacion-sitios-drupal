@@ -67,3 +67,32 @@ en import, le arroja un mensaje como el de la imágen siguiente, solo de clic en
 
 El proceso puede tomar varios minutos.
 
+Revisando conectividad de la máquina virtual
+--------------------------------------------
+Primeramente debe arrancar la máquina virtual, las claves de acceso son usuario: root contraseña: toor, una vez 
+arrancada visualizara lo siguiente donde debe colocar sus accesos:
+
+.. image:: _static/iniciando_VM.png
+
+Dentro de la Shell, comprobaremos la conectividad de nuestra máquina virtual con el siguiente comando **ifconfig** 
+si todo es correcto nos devolvera una dirección IP como puede ver en la imágen 
+
+.. image:: _static/ip_VM.png
+
+Tener una dirección IP asignada es **fundamental** para este proceso, ya que mediante esa IP accederemos vía navegador Web a
+nuestros sitios, si en el proceso anterior no le ha asignado una dirección IP, ejecute lo siguiente en su consola:
+
+.. code-block:: bash
+
+   $ nmtui
+
+Presione enter sobre el comando anterior y elija la opción de Activar una conexión y presione enter
+
+.. image:: _static/activar_ip_VM.png
+
+El nombre de la conexión es **ens33** con las flechas en su teclado desplace hasta la opción **Activar**, 
+despues en **Back** y en **Salir**
+
+.. image:: _static/activar_ip_VM_2.png
+
+Repita el comando **ifconfig** y valide si se le ha asignado una dirección IP.

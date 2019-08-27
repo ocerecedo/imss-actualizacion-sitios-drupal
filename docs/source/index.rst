@@ -13,7 +13,7 @@ Contents:
 
     intro
     req
-
+    contents
 
 
 Indices and tables

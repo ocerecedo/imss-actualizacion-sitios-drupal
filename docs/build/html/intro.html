@@ -115,6 +115,26 @@ en import, le arroja un mensaje como el de la imágen siguiente, solo de clic en
 <img alt="_images/error_Import_Virtual_Machine.png" src="_images/error_Import_Virtual_Machine.png" />
 <p>El proceso puede tomar varios minutos.</p>
 </div>
+<div class="section" id="revisando-conectividad-de-la-maquina-virtual">
+<h2>Revisando conectividad de la máquina virtual<a class="headerlink" href="#revisando-conectividad-de-la-maquina-virtual" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Primeramente debe arrancar la máquina virtual, las claves de acceso son usuario: root contraseña: toor, una vez
+arrancada visualizara lo siguiente donde debe colocar sus accesos:</p>
+<img alt="_images/iniciando_VM.png" src="_images/iniciando_VM.png" />
+<p>Dentro de la Shell, comprobaremos la conectividad de nuestra máquina virtual con el siguiente comando <strong>ifconfig</strong>
+si todo es correcto nos devolvera una dirección IP como puede ver en la imágen</p>
+<img alt="_images/ip_VM.png" src="_images/ip_VM.png" />
+<p>Tener una dirección IP asignada es <strong>fundamental</strong> para este proceso, ya que mediante esa IP accederemos vía navegador Web a
+nuestros sitios, si en el proceso anterior no le ha asignado una dirección IP, ejecute lo siguiente en su consola:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>$ nmtui
+</pre></div>
+</div>
+<p>Presione enter sobre el comando anterior y elija la opción de Activar una conexión y presione enter</p>
+<img alt="_images/activar_ip_VM.png" src="_images/activar_ip_VM.png" />
+<p>El nombre de la conexión es <strong>ens33</strong> con las flechas en su teclado desplace hasta la opción <strong>Activar</strong>,
+despues en <strong>Back</strong> y en <strong>Salir</strong></p>
+<img alt="_images/activar_ip_VM_2.png" src="_images/activar_ip_VM_2.png" />
+<p>Repita el comando <strong>ifconfig</strong> y valide si se le ha asignado una dirección IP.</p>
+</div>
 </div>
 
 
@@ -139,9 +159,11 @@ en import, le arroja un mensaje como el de la imágen siguiente, solo de clic en
 <li class="toctree-l2"><a class="reference internal" href="#requerimientos">Requerimientos</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#instalacion-de-vmware-workstation">Instalación de VMWare Workstation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#cargando-imagen-virtualizada">Cargando imágen virtualizada</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#revisando-conectividad-de-la-maquina-virtual">Revisando conectividad de la máquina virtual</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="req.html">Requerimientos</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contents.html">Revisando conectividad de la máquina virtual</a></li>
 </ul>
 
 <div class="relations">
