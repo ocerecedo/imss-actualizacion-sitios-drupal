@@ -1,4 +1,6 @@
-[TOC]
+```
+<!-- TOC -->autoauto- [1. Terminology](#1-terminology)auto- [2. VCS preparation](#2-vcs-preparation)auto- [3. File preparation](#3-file-preparation)auto    - [3.1. Full & partial package](#31-full--partial-package)auto    - [3.2. Partial package only](#32-partial-package-only)auto    - [3.3. Full & partial package (continued)](#33-full--partial-package-continued)auto- [4. VCS finalization](#4-vcs-finalization)autoauto<!-- /TOC -->
+```
 
 # Introducción
 
