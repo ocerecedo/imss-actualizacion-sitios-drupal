@@ -54,4 +54,34 @@ En su memoria USB puede encontrar la máquina virtual con el nombre de **imagen_
 
 Proceda a ejecutar el archivo llamado Revistas.ovf, la pantalla inmediata debe ser la siguiente:
 
-![](C:\Users\nuxbaster\Documents\imss-actualizacion-sitios-drupal\docs\source\_static\import_Virtual_Machine.png)
+![Importando m](C:\Users\nuxbaster\Documents\imss-actualizacion-sitios-drupal\docs\source\_static\import_Virtual_Machine.png)
+
+Coloque el nombre y la ruta de su máquina virtual y proceda a dar clic en **Import**. Si después de dar clic en **Import**, le arroja un mensaje como el de la imagen siguiente, solo de clic en **Retry**
+
+![Error al importar la máquina virtual](C:\Users\nuxbaster\Documents\imss-actualizacion-sitios-drupal\docs\source\_static\error_Import_Virtual_Machine.png)
+
+Este proceso puede tomar varios minutos en completarse.
+
+## Revisando la conectividad de la máquina virtual
+
+Al finalizar el proceso anterior procedemos a iniciar la máquina virtual, las claves de acceso son las siguientes:
+
+- **usuario: root** 
+- **contraseña: toor** 
+
+Una vez iniciada, observará lo siguiente donde debe colocar sus accesos:
+
+![Iniciando la máquina virtual](C:\Users\nuxbaster\Documents\imss-actualizacion-sitios-drupal\docs\source\_static\iniciando_VM.png)
+
+Dentro de la Shell, comprobaremos la conectividad de nuestra máquina virtual con el siguiente comando **ifconfig** si todo es correcto nos devolverá una dirección IP similar a como puede ver en la imagen:
+
+![IP de la máquina virtual](C:\Users\nuxbaster\Documents\imss-actualizacion-sitios-drupal\docs\source\_static\ip_VM.png)
+
+Tener una dirección IP asignada es **fundamental** para este proceso, ya que mediante esa IP podrá acceder vía navegador Web a nuestros sitios, si en el proceso anterior no le ha asignado una dirección IP, ejecute lo siguiente en su consola:
+
+~~~bash
+```bash
+nmtui
+```
+~~~
+
